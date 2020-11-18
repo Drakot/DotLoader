@@ -32,7 +32,7 @@ Next add to your module level (app) `build.gradle`'s dependencies block like thi
 
 ```
 dependencies {
-    compile 'com.github.bhargavms:DotLoader:X.X.X'
+    compile 'com.github.Drakot:DotLoader:master-SNAPSHOT'
 }
 ```
 
